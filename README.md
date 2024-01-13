@@ -5,7 +5,7 @@
 </h1>
 
 
-<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBvMDlkaTJqMXFuajljcThzMTdraTdnOGFzbzF6bW5xeTlma2UzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YleqZJelH2XEkgzF1Z/giphy.gif" width="40px" >&nbsp;&nbsp;A passionate Fullstack developer from India&nbsp;&nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBvMDlkaTJqMXFuajljcThzMTdraTdnOGFzbzF6bW5xeTlma2UzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YleqZJelH2XEkgzF1Z/giphy.gif" width="40px" ></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBvMDlkaTJqMXFuajljcThzMTdraTdnOGFzbzF6bW5xeTlma2UzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YleqZJelH2XEkgzF1Z/giphy.gif" width="40px" >&nbsp;&nbsp;A passionate Fullstack developer from India&nbsp;&nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBvMDlkaTJqMXFuajljcThzMTdraTdnOGFzbzF6bW5xeTlma2UzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YleqZJelH2XEkgzF1Z/giphy.gif" width="40px" ></h3>
 
 <img align="right" width="365px"   height="310px"  src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
