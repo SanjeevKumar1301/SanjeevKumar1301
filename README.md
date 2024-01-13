@@ -76,3 +76,6 @@
 
 [![Sanjeev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjeevKumar1301&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr />
+
+### **Snake Eating my Contributions**
+![snake gif](https://github.com/SanjeevKumar1301/SanjeevKumr1301/blob/output/github-contribution-grid-snake.svg)
