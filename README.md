@@ -73,7 +73,7 @@
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/sanjeev1301?ext=contest&theme=dark" alt="leetcode" >
 </div>
-
+  <br />
 [![Sanjeev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjeevKumar1301&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr />
 
